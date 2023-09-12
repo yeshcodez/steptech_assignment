@@ -12,4 +12,5 @@ i have attach the submit button and it will send the data to the database
 #### app1.py
 app1.py is the flask frameworks used in the python and display the string enter by the user
 ##### app.py
-app.py is the flask frameworks used in the python
+app.py is the flask frameworks used in the python to connect the mysql database to the flask framework application,
+and also index.html file is attached in the app.y to display in the website.
