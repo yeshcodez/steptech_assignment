@@ -10,3 +10,6 @@ At the end of the code i have show the particular items in a list.
 In this i have coded the simple form to store the record in the database.
 i have attach the submit button and it will send the data to the database 
 #### app1.py
+app1.py is the flask frameworks used in the python and display the string enter by the user
+##### app.py
+app.py is the flask frameworks used in the python
