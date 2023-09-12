@@ -10,7 +10,7 @@ At the end of the code i have show the particular items in a list.
 
 ### index.html
 In this i have coded the simple form to store the record in the database.
-i have attach the submit button and it will send the data to the database 
+i have attach the submit button and it will send the data to the database. 
 html file has been named as template that is attached in app.py file.
 
 #### app1.py
