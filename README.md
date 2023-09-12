@@ -7,5 +7,6 @@ add a data to the table to display it.
 (select * from table name) is the command to display list of record in the table.
 At the end of the code i have show the particular items in a list. 
 ### index.html
-In this i have coded the simple form to store the record in the database
+In this i have coded the simple form to store the record in the database.
+i have attach the submit button and it will send the data to the database 
 #### app1.py
