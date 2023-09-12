@@ -5,4 +5,7 @@ after creating the databse we need to create a table to store a data in row and 
 while we creating the table we use primary key for a particular colume to display a unique number.
 add a data to the table to display it.
 (select * from table name) is the command to display list of record in the table.
-
+At the end of the code i have show the particular items in a list. 
+### index.html
+In this i have coded the simple form to store the record in the database
+#### app1.py
